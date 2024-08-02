@@ -12,3 +12,4 @@ some text
 4. To merge branch update to main branch, use `git merge <branch name>`
 5. Optional: we can also push local branch to new branch on github by `git push -u <branch name>`
 6. With this you can also make a pull-request
+7. To delete a branch, use `git branch -d <branch name>`
